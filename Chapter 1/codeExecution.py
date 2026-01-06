@@ -5,6 +5,3 @@ print("Actual Value:" , age2)
 favSubject = "Maths"
 age2 = age1
 print("Changed Value:" , age2)
-
-
-
